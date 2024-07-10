@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Solidworks with FRC
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## This Project
 
-## Commands
+This is an open source textbook to teach SolidWorks Computer Aided Design for the First Robotics Competition. In this guide we include basic SolidWorks principles and FRC design principles in order to instruct students how to build competitive robots.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Who we are
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+We are FRC team 2854, the Prototypes. Our mission is to provide easy access to education in STEM for students of all ages, so we decided to create this guide of SolidWorks for people in FRC and beyond. 
