@@ -1,4 +1,4 @@
-# Solidworks with FRC
+# SolidWorks for FRC
 
 ## This Project
 
