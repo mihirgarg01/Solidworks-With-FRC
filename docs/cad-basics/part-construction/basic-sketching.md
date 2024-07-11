@@ -4,8 +4,6 @@ Welcome to part construction! Here, you will learn how to model parts in a 2 dim
 
 ### Lines and Shapes
 
-![A cute kitten](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm4mj99mO1QkvrfSa6RUnamvqNxugp0QWPmQ&s) 
-
 ### Dimensioning
 ### Relationships
 ### Offsets and Trim
