@@ -9,7 +9,7 @@ It is important to create dependencies and to ensure that your robot fits the ru
 
 This is an example of a layout-sketched 4 bar intake.
 
-![Layout Sketch - 4 Bar Intake](Layout Sketch - 4 Bar Intake.png)
+![Layout Sketch - 4 Bar Intake](images-assembly-construction/Layout Sketch - 4 Bar Intake.png)
 
 As you can see, I sketched the rollers and the balls to ensure that the intake can make adequate contact with the balls to pull them into the robot. I also sketched the up position of the intake to make sure the intake will fit properly when it's up so that our robot doesn’t get disqualified. I also sketched a plate to mount it to the chassis.
 
@@ -21,7 +21,7 @@ Thus, layout sketches are important to easily modify your robot in case you need
 
 A layout sketch is literally just a part. Open a part in an assembly file(this is important for later) and start sketching on whatever plane makes sense. Create a bunch of sketches that represent different parts or subsystems in your robot and you’re chilling. Don’t be afraid to create a bunch of sketches, but make sure to organize them in folders and give them names to ensure that other people looking at your CAD can understand it since layout sketches can get messy.
 
-![Layout Sketch - Feature Tree](Layout Sketch - Feature Tree.png)
+![Layout Sketch - Feature Tree](images-assembly-construction/Layout Sketch - Feature Tree.png)
 
 Typically, you want your layout sketches to be pretty simple and only contain the information that you need. The intake’s layout sketch is very bare bones and only contains the information necessary to build the side plates, guide the proper direction of the bars, and create a proper mount that attaches to the bars. You don’t need to layout sketch everything like extrusions. 
 
@@ -31,8 +31,8 @@ If you’re worried that you don’t have enough detail or have too much detail,
 
 Since you made your layout sketch in an assembly, you can create parts out of it there. Then, when you want to create a new part based off of the layout sketch, click the arrow under insert components and create a new part in the assembly. Then, once you’ve made and named the part, make sure to click the edit component button to create your dependencies in the part and not the assembly. 
 
-![Layout Sketch - New Part](Layout Sketch - New Part.png)
-![Layout Sketch - Edit Component](Layout Sketch - Edit Component.png)
+![Layout Sketch - New Part](images-assembly-construction/Layout Sketch - New Part.png)
+![Layout Sketch - Edit Component](images-assembly-construction/Layout Sketch - Edit Component.png)
 
 There are three nice ways to create dependencies in a part from a layout sketch.
 
