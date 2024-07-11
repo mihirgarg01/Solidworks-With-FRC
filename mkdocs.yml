@@ -52,7 +52,11 @@ nav:
     - Part Construction: 
       - Basic Sketching: cad-basics/part-construction/basic-sketching.md
       - 3D Modeling: cad-basics/part-construction/3d-modeling.md
-    - Assemblies: cad-basics/assembly-construction.md
+    - Assemblies:
+      - Mates: cad-basics/assembly-construction/mates.md
+      - Layout Sketching: cad-basics/assembly-construction/layout-sketching.md
+  - FRC Design: 
+    - frc-design/index.md
 
 
 markdown_extensions:
