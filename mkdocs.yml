@@ -4,12 +4,13 @@ nav:
   - Home: index.md
   - Navigation:
     - Home: navigation/home.md
+    - Controls: navigation/controls.md
     - Parts: navigation/part.md
     - Assemblies: navigation/assembly.md
     - Drawings: navigation/drawing.md
   - Part Construction:
     - Basic Construction: part-construction/basic-sketching.md
-    - 3D Modling: part-construction/3d-modeling.md
+    - 3D Modeling: part-construction/3d-modeling.md
   - Assembly Construction:
     - Mating: assembly-construction/mates.md
     - Layout Sketches: assembly-construction/layout-sketching.md
@@ -36,13 +37,13 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
       primary: teal
-      accent: purple
+      accent: black
     - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
       primary: teal
-      accent: lime
+      accent: white
 
 markdown_extensions:
   - abbr
