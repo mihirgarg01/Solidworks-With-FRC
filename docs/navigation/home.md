@@ -18,7 +18,7 @@ System settings is like the "General Solidworks Settings". The most important se
 ### Document Setttings
 
 ## Task Pane
-This side panel gives access to many useful Solidworks resources, and access to 3rd party extensions. You can access it by clicking on the side icons (Blue Arrow). Each icon is a "tab" (Like the house icon = Solidworks Resouces)
+This side panel gives you access to many useful Solidworks resources, and access to 3rd party extensions. You can access it by clicking on the side icons (Blue Arrow). Each icon is a "tab" (Like the house icon = Solidworks Resouces)
 
 ### Showing More Tabs
 
